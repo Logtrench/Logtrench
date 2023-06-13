@@ -2,7 +2,6 @@
 - 👀 I’m interested in simulations and programming applications to Mechanical Engineering.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects relating to simulations as well as any general project.
-- 📫 How to reach me: my email logan.marshy1@gmail.com
 
 <!---
 Logtrench/Logtrench is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
